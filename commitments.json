@@ -1,0 +1,380 @@
+[
+  {
+    "id": "C01",
+    "theme": "Staff Representation",
+    "section": "\u00a72.2 Internal Organizational Structure and Governance",
+    "commitment": "Ensure representation and active participation in decision-making of academic and administrative staff.",
+    "keywords": [
+      "representation",
+      "participation",
+      "decision-making",
+      "staff"
+    ]
+  },
+  {
+    "id": "C02",
+    "theme": "Faculty Governance",
+    "section": "\u00a72.2 Internal Organizational Structure and Governance",
+    "commitment": "Establish Faculty Council with elected academic staff representatives for curriculum and strategic planning.",
+    "keywords": [
+      "Faculty Council",
+      "elected representatives",
+      "academic staff",
+      "governance"
+    ]
+  },
+  {
+    "id": "C03",
+    "theme": "Staff Voice",
+    "section": "\u00a72.2 Internal Organizational Structure and Governance",
+    "commitment": "Include elected representative of full-time academic staff in University Council decision-making.",
+    "keywords": [
+      "University Council",
+      "elected representative",
+      "academic staff",
+      "participation"
+    ]
+  },
+  {
+    "id": "C04",
+    "theme": "Sustainability Quality",
+    "section": "\u00a72.2 Internal Organizational Structure and Governance",
+    "commitment": "Establish entities confirming commitment to sustainability and quality assurance.",
+    "keywords": [
+      "sustainability",
+      "quality",
+      "commitment",
+      "entities"
+    ]
+  },
+  {
+    "id": "C05",
+    "theme": "Information Access",
+    "section": "\u00a73.2.5 Transparency and Public Information",
+    "commitment": "Ensure comprehensive, accurate, accessible information about academic programmes and policies systematically communicated.",
+    "keywords": [
+      "transparency",
+      "information access",
+      "communication"
+    ]
+  },
+  {
+    "id": "C06",
+    "theme": "Policy Documentation",
+    "section": "\u00a73.2.5 Transparency and Public Information",
+    "commitment": "Maintain accessible Bylaws, Academic Staff Manual, and institutional policies on university website.",
+    "keywords": [
+      "documentation",
+      "policies",
+      "accessibility"
+    ]
+  },
+  {
+    "id": "C07",
+    "theme": "Communication Platforms",
+    "section": "\u00a73.2.5 Transparency and Public Information",
+    "commitment": "Provide multiple interaction platforms including email, portals, social media, and face-to-face meetings.",
+    "keywords": [
+      "communication",
+      "platforms",
+      "stakeholder engagement"
+    ]
+  },
+  {
+    "id": "C08",
+    "theme": "Timely Responsiveness",
+    "section": "\u00a73.2.5 Transparency and Public Information",
+    "commitment": "Maintain robust communication systems ensuring timely responsiveness and continuous feedback collection.",
+    "keywords": [
+      "responsiveness",
+      "feedback",
+      "communication systems"
+    ]
+  },
+  {
+    "id": "C09",
+    "theme": "Qualified Instructor Hiring",
+    "section": "\u00a73.4.3",
+    "commitment": "Ensure hiring instructors with advanced degrees and strong academic qualifications.",
+    "keywords": [
+      "hiring",
+      "advanced degrees",
+      "qualifications"
+    ]
+  },
+  {
+    "id": "C10",
+    "theme": "Teaching Evaluation",
+    "section": "\u00a73.4.3",
+    "commitment": "Evaluate teaching methods and assess instructor performance systematically.",
+    "keywords": [
+      "evaluation",
+      "teaching methods",
+      "performance"
+    ]
+  },
+  {
+    "id": "C11",
+    "theme": "Continuous Professional Development",
+    "section": "\u00a73.4.3",
+    "commitment": "Encourage continuous learning and professional development for instructors.",
+    "keywords": [
+      "continuous learning",
+      "professional development",
+      "training"
+    ]
+  },
+  {
+    "id": "C12",
+    "theme": "Research Support",
+    "section": "\u00a73.4.3",
+    "commitment": "Support research activities for academic staff.",
+    "keywords": [
+      "research",
+      "support",
+      "activities"
+    ]
+  },
+  {
+    "id": "C13",
+    "theme": "Staff Retention",
+    "section": "\u00a73.4.3",
+    "commitment": "Retain talented instructors through growth opportunities and positive work environment.",
+    "keywords": [
+      "retention",
+      "growth opportunities",
+      "work environment"
+    ]
+  },
+  {
+    "id": "C14",
+    "theme": "Merit-Based Recruitment",
+    "section": "\u00a73.4.3.1",
+    "commitment": "Adopt clear merit-based recruitment policy ensuring selection of most qualified candidates.",
+    "keywords": [
+      "merit-based",
+      "recruitment policy",
+      "qualified candidates"
+    ]
+  },
+  {
+    "id": "C15",
+    "theme": "Rigorous Selection Process",
+    "section": "\u00a73.4.3.1",
+    "commitment": "Implement ad-hoc committee review, interviews, and demo-lectures for candidate evaluation.",
+    "keywords": [
+      "committee review",
+      "interviews",
+      "demo-lectures"
+    ]
+  },
+  {
+    "id": "C16",
+    "theme": "International Credential Recognition",
+    "section": "\u00a73.4.3.1",
+    "commitment": "Prioritize internationally recognized degrees in faculty recruitment.",
+    "keywords": [
+      "internationally recognized",
+      "degrees",
+      "recruitment"
+    ]
+  },
+  {
+    "id": "C17",
+    "theme": "Structured Performance Monitoring",
+    "section": "\u00a73.4.3.2",
+    "commitment": "Implement structured multi-source performance monitoring system for academic staff.",
+    "keywords": [
+      "performance monitoring",
+      "multi-source",
+      "structured"
+    ]
+  },
+  {
+    "id": "C18",
+    "theme": "Student Evaluations",
+    "section": "\u00a73.4.3.2",
+    "commitment": "Require mandatory semester student evaluations assessing teaching and course content.",
+    "keywords": [
+      "student evaluations",
+      "semester",
+      "teaching assessment"
+    ]
+  },
+  {
+    "id": "C19",
+    "theme": "Performance Review Meetings",
+    "section": "\u00a73.4.3.2",
+    "commitment": "Share and discuss evaluation results in performance review meetings.",
+    "keywords": [
+      "performance review",
+      "evaluation results",
+      "meetings"
+    ]
+  },
+  {
+    "id": "C20",
+    "theme": "Pedagogical Training",
+    "section": "\u00a73.4.3.3",
+    "commitment": "Organize training sessions on pedagogy, technology, and student engagement.",
+    "keywords": [
+      "training sessions",
+      "pedagogy",
+      "technology"
+    ]
+  },
+  {
+    "id": "C21",
+    "theme": "Mental Health Support",
+    "section": "\u00a73.4.3.3",
+    "commitment": "Provide training and support addressing mental health in workplace.",
+    "keywords": [
+      "mental health",
+      "workplace",
+      "support"
+    ]
+  },
+  {
+    "id": "C22",
+    "theme": "Sabbatical Leaves",
+    "section": "\u00a73.4.3.3",
+    "commitment": "Offer sabbatical leaves to support research activities.",
+    "keywords": [
+      "sabbatical leaves",
+      "research",
+      "support"
+    ]
+  },
+  {
+    "id": "C23",
+    "theme": "International Research Mobility",
+    "section": "\u00a73.4.3.3",
+    "commitment": "Support international mobility and conference participation for faculty.",
+    "keywords": [
+      "international mobility",
+      "conference participation",
+      "research"
+    ]
+  },
+  {
+    "id": "C24",
+    "theme": "Research Infrastructure Access",
+    "section": "\u00a73.4.3.3",
+    "commitment": "Provide access to research databases and resources.",
+    "keywords": [
+      "research databases",
+      "access",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "C25",
+    "theme": "Teaching Load Reduction",
+    "section": "\u00a73.4.3.3",
+    "commitment": "Reduce teaching load by rank to support research activities.",
+    "keywords": [
+      "load reduction",
+      "rank",
+      "research support"
+    ]
+  },
+  {
+    "id": "C26",
+    "theme": "Publication Support",
+    "section": "\u00a73.4.3.3",
+    "commitment": "Encourage publication in peer-reviewed internationally recognized journals.",
+    "keywords": [
+      "publication",
+      "peer-reviewed",
+      "internationally recognized"
+    ]
+  },
+  {
+    "id": "C27",
+    "theme": "Competitive Compensation",
+    "section": "\u00a73.4.3.4",
+    "commitment": "Offer competitive transparent salaries based on rank.",
+    "keywords": [
+      "competitive salaries",
+      "transparent",
+      "rank-based"
+    ]
+  },
+  {
+    "id": "C28",
+    "theme": "Healthcare Coverage",
+    "section": "\u00a73.4.3.4",
+    "commitment": "Provide healthcare coverage for academic staff.",
+    "keywords": [
+      "healthcare coverage",
+      "benefits",
+      "staff"
+    ]
+  },
+  {
+    "id": "C29",
+    "theme": "End-of-Service Benefits",
+    "section": "\u00a73.4.3.4",
+    "commitment": "Offer seniority-based end-of-service indemnities.",
+    "keywords": [
+      "end-of-service indemnities",
+      "seniority",
+      "benefits"
+    ]
+  },
+  {
+    "id": "C30",
+    "theme": "Educational Support",
+    "section": "\u00a73.4.3.4",
+    "commitment": "Provide educational funding for instructors' children.",
+    "keywords": [
+      "educational funding",
+      "children",
+      "support"
+    ]
+  },
+  {
+    "id": "C31",
+    "theme": "Mobility Allowances",
+    "section": "\u00a73.4.3.4",
+    "commitment": "Provide transportation and accommodation allowances for professional mobility.",
+    "keywords": [
+      "transportation",
+      "accommodation allowances",
+      "mobility"
+    ]
+  },
+  {
+    "id": "C32",
+    "theme": "Seniority Recognition",
+    "section": "\u00a73.4.3.4",
+    "commitment": "Value long-term commitment through seniority recognition with contractual clarity.",
+    "keywords": [
+      "seniority recognition",
+      "long-term commitment",
+      "contracts"
+    ]
+  },
+  {
+    "id": "C33",
+    "theme": "Professional Growth Opportunities",
+    "section": "\u00a73.4.3.4",
+    "commitment": "Provide access to workshops and international training programs.",
+    "keywords": [
+      "workshops",
+      "international training",
+      "professional growth"
+    ]
+  },
+  {
+    "id": "C34",
+    "theme": "Academic Mobility Initiatives",
+    "section": "\u00a73.4.3.4",
+    "commitment": "Ensure access to academic mobility initiatives for professional development.",
+    "keywords": [
+      "academic mobility",
+      "initiatives",
+      "professional development"
+    ]
+  }
+]

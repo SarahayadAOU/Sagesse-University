@@ -1,0 +1,182 @@
+[
+  {
+    "id": "I01",
+    "dim": "D1",
+    "name": "Salary Fairness",
+    "text": "Rate your satisfaction with the fairness of your salary relative to your job role."
+  },
+  {
+    "id": "I02",
+    "dim": "D1",
+    "name": "Salary Competitiveness",
+    "text": "Rate your satisfaction with the competitiveness of your salary relative to peer institutions."
+  },
+  {
+    "id": "I03",
+    "dim": "D1",
+    "name": "Pay Transparency",
+    "text": "Rate your satisfaction with the clarity and transparency of your work compensation."
+  },
+  {
+    "id": "I04",
+    "dim": "D1",
+    "name": "Health Coverage",
+    "text": "Rate your satisfaction with the health coverage benefits (insurance, health care center, etc.)."
+  },
+  {
+    "id": "I05",
+    "dim": "D1",
+    "name": "Non-Monetary Benefits",
+    "text": "Rate your satisfaction with Non-Monetary benefits including tuition discounts, transportation support, wellness programs, EV loans etc."
+  },
+  {
+    "id": "I06",
+    "dim": "D1",
+    "name": "End of Service Compensation",
+    "text": "Rate your satisfaction about the end of service compensation."
+  },
+  {
+    "id": "I07",
+    "dim": "D2",
+    "name": "Strategic Clarity",
+    "text": "Rate your satisfaction with the clarity of the university's strategic objectives."
+  },
+  {
+    "id": "I08",
+    "dim": "D2",
+    "name": "Decision Transparency",
+    "text": "Rate your satisfaction with how clearly management communicates its decisions and their underlying rationales."
+  },
+  {
+    "id": "I09",
+    "dim": "D2",
+    "name": "Participation in Decisions",
+    "text": "Rate your satisfaction with the opportunities to participate in decision-making processes within your office."
+  },
+  {
+    "id": "I10",
+    "dim": "D2",
+    "name": "Empowerment",
+    "text": "Rate your satisfaction with the extent of empowerment granted in carrying your responsibilities."
+  },
+  {
+    "id": "I11",
+    "dim": "D2",
+    "name": "Responsiveness",
+    "text": "Rate your satisfaction with the effectiveness of management in responding to academic operational challenges."
+  },
+  {
+    "id": "I12",
+    "dim": "D2",
+    "name": "Workflow Efficiency",
+    "text": "Rate your satisfaction with how effectively ULS current workflows support your responsibilities."
+  },
+  {
+    "id": "I13",
+    "dim": "D2",
+    "name": "Conflict Resolution",
+    "text": "Rate your satisfaction with how management addresses and resolves disputes between stakeholders."
+  },
+  {
+    "id": "I14",
+    "dim": "D3",
+    "name": "Policy Communication",
+    "text": "Rate your satisfaction with how well bylaws, regulations, policies and procedures are communicated and understood."
+  },
+  {
+    "id": "I15",
+    "dim": "D3",
+    "name": "Clarity of Communication",
+    "text": "Rate your satisfaction with the clarity of university-wide communications including announcements, events, and campus updates."
+  },
+  {
+    "id": "I16",
+    "dim": "D4",
+    "name": "Workspace Comfort",
+    "text": "Rate your satisfaction with the comfort of your workspace including ergonomics, lighting, noise levels, ventilation, and spatial layout."
+  },
+  {
+    "id": "I17",
+    "dim": "D4",
+    "name": "Access to Equipment and Technology",
+    "text": "Rate your satisfaction with the accessibility of equipment and technology needed to perform your job effectively."
+  },
+  {
+    "id": "I18",
+    "dim": "D5",
+    "name": "Promotion Clarity",
+    "text": "Rate your satisfaction with the clarity of promotion criteria and processes."
+  },
+  {
+    "id": "I19",
+    "dim": "D5",
+    "name": "Training Effectiveness",
+    "text": "Rate your satisfaction with the effectiveness of training programs."
+  },
+  {
+    "id": "I20",
+    "dim": "D5",
+    "name": "Extra-Role Involvement",
+    "text": "Rate your satisfaction with the opportunities to participate in initiatives beyond your formal job responsibilities."
+  },
+  {
+    "id": "I21",
+    "dim": "D5",
+    "name": "Recognition",
+    "text": "Rate your satisfaction with the recognition of your achievements and contributions."
+  },
+  {
+    "id": "I22",
+    "dim": "D6",
+    "name": "Flexibility",
+    "text": "Rate your satisfaction with the availability of flexible working arrangements."
+  },
+  {
+    "id": "I23",
+    "dim": "D6",
+    "name": "Work-Life Balance",
+    "text": "Rate your satisfaction with the support provided to balance professional responsibilities and personal life."
+  },
+  {
+    "id": "I24",
+    "dim": "D6",
+    "name": "Burnout Risk",
+    "text": "Rate your satisfaction with the support provided to manage stress and avoid emotional fatigue."
+  },
+  {
+    "id": "I25",
+    "dim": "D7",
+    "name": "Collegiality",
+    "text": "Rate your satisfaction with the collaboration and teamwork climate among colleagues."
+  },
+  {
+    "id": "I26",
+    "dim": "D7",
+    "name": "Psychological Safety",
+    "text": "Rate your satisfaction with the ability to voice ideas and raise concerns."
+  },
+  {
+    "id": "I27",
+    "dim": "D7",
+    "name": "Diversity and Inclusion",
+    "text": "Rate your satisfaction with the university's commitment to diversity, inclusion and respect for all."
+  },
+  {
+    "id": "I28",
+    "dim": "D8",
+    "name": "Sense of Belonging",
+    "text": "Rate your satisfaction with your sense of belonging and identification with ULS."
+  },
+  {
+    "id": "I29",
+    "dim": "D8",
+    "name": "Family Enrollment Likelihood",
+    "text": "Rate your satisfaction with your likelihood of recommending ULS or enrolling family members or children."
+  },
+  {
+    "id": "I30",
+    "dim": "D8",
+    "name": "Brand Identity",
+    "text": "Rate your satisfaction with your perception of ULS brand identity."
+  }
+]
